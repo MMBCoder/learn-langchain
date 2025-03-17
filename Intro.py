@@ -67,6 +67,3 @@ All the frameworks used in this mini-course belong to their owners:
 ''')
 
 st.divider()
-
-st.write('A project by [Francesco Carlucci](https://francescocarlucci.com) - \
-Need AI training / consulting? [Get in touch](mailto:info@francescocarlucci.com)')
