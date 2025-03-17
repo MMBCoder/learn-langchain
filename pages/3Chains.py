@@ -167,5 +167,3 @@ hands-on tutorials, making it more fun to learn in a more practical context.
 
 st.divider()
 
-st.write('A project by [Francesco Carlucci](https://francescocarlucci.com) - \
-Need AI training / consulting? [Get in touch](mailto:info@francescocarlucci.com)')
