@@ -18,8 +18,6 @@ to create interesting tools!
 All the projects are open-source and you will find a link to the code on GitHub!
 ''')
 
-st.info('This section will be regularly updated with new projects! Follow me on \
-[Twitter](https://twitter.com/francecarlucci) to be notified!', icon="🆕")
 
 st.subheader('Demo Project #1 | Invoice Data Extractor')
 
@@ -81,5 +79,3 @@ into purpose-specific documents.
 
 st.divider()
 
-st.write('A project by [Francesco Carlucci](https://francescocarlucci.com) - \
-Need AI training / consulting? [Get in touch](mailto:info@francescocarlucci.com)')
