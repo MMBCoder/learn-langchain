@@ -289,5 +289,3 @@ with st.form("load_and_split"):
 
 st.divider()
 
-st.write('A project by [Francesco Carlucci](https://francescocarlucci.com) - \
-Need AI training / consulting? [Get in touch](mailto:info@francescocarlucci.com)')
